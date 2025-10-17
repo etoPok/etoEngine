@@ -1,9 +1,8 @@
 #include <iostream>
-#include <stdexcept>
 #include <cstdlib>
 
-#include "helloTriangleConfig.h"
-#include "helloTriangle.hpp"
+#include "../include/helloTriangleConfig.h"
+#include "../include/helloTriangle.hpp"
 
 int main() {
     std::cout << "Version " << HelloTriangle_VERSION_MAJOR << "."

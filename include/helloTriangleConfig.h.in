@@ -1,3 +1,2 @@
-// the configured options end settings
 #define HelloTriangle_VERSION_MAJOR @helloTriangle_VERSION_MAJOR@
 #define HelloTriangle_VERSION_MINOR @helloTriangle_VERSION_MINOR@
